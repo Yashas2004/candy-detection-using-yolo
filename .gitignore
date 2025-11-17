@@ -1,0 +1,7 @@
+"*.pt" 
+"*.pth" 
+"*.onnx" 
+"runs/train/*/weights/" 
+"__pycache__/" 
+"*.zip" 
+"*.cache" 
